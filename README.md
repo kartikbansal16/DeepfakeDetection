@@ -10,7 +10,6 @@ DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and
 
 - To find our trained model follow this [link](https://drive.google.com/drive/folders/1PRrSpo9y5AlS_xauiW5LbgKnl483oW1i?usp=sharing).
 
-
 - To understand the project in a better way it is structured in below format:
 
 ```
@@ -63,6 +62,6 @@ Feel free to [open an issue](https://github.com/parasguglani1/DeepFake-Detection
 ## Developers
 
 1. [Paras Guglani](https://github.com/parasguglani1)
-2. [Shubhi Agarwal](https://github.com/shubhi-agarwal)
-3. [Kartik Bansal](https://github.com/kartik-bansal)
+2. [Shubhi Agarwal](https://github.com/ShubhiAgarwal09)
+3. [Kartik Bansal](https://github.com/kartikbansal16)
 4. [Vigya Vig](https://github.com/VigyaVig)
