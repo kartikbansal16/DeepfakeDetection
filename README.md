@@ -54,7 +54,7 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 4. Confusion Matrix:
    <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
 
-- To see the working of the project, follow this [link](https://github.com/parasguglani1/DeepFake-Detection/blob/main/ImplementationVideo.mp4).
+- To see the working of the project, follow this [link](https://drive.google.com/drive/folders/1qRSJGNvw5IQx-MWVe8V8Ggxyr1lt5jBg?usp=sharing).
 
 ## Facing any issues???
 
